@@ -1,7 +1,5 @@
 # AI_CS_response
 
-# AI_CS_response
-
 This is a repository containing code to paper "Artificial Intelligence-Driven Algorithms for Predicting Response to Corticosteroid Treatment in Patients with Post-Acute COVID-19". The Python notebook will be available after the paper will be published.
 
 ## License
